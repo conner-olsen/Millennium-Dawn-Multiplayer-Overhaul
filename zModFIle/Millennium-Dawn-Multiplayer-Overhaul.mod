@@ -1,4 +1,4 @@
-version="1.1"
+version="1.1.1"
 dependencies={
 	"Millennium Dawn: A Modern Day Mod"
 }
@@ -11,6 +11,6 @@ tags={
 	"Map"
 }
 name="Millennium Dawn: Multiplayer Overhaul"
-supported_version="1.12.*"
+supported_version="1.17.*"
 path="mod/Millennium-Dawn-Multiplayer-Overhaul"
 remote_file_id="2780631790"
